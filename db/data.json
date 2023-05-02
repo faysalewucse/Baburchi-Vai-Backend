@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://shorturl.at/qFOTX",
+    "chef_name": "Mridul Roy",
+    "years_of_experience": 15,
+    "number_of_recipes": 100,
+    "bangladeshi_recipes": [
+      "Chingri malai curry",
+      "Dhaka-style biriyani",
+      "Shorshe ilish"
+    ],
+    "likes": 5000
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://shorturl.at/oxG04",
+    "chef_name": "Md Ohiduzzaman",
+    "years_of_experience": 10,
+    "number_of_recipes": 75,
+    "bangladeshi_recipes": ["Pitha", "Shutki bhorta", "Bhuna khichuri"],
+    "likes": 4000
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://chefclubdhakahome.files.wordpress.com/2019/05/tony7755109801519956930.jpg",
+    "chef_name": "Mr. Tony Khan",
+    "years_of_experience": 20,
+    "number_of_recipes": 120,
+    "bangladeshi_recipes": ["Mutton kosha", "Beef tehari", "Fuchka"],
+    "likes": 6000
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://shorturl.at/kCDGY",
+    "chef_name": "Jakir Hossain",
+    "years_of_experience": 25,
+    "number_of_recipes": 150,
+    "bangladeshi_recipes": ["Chotpoti", "Bhorta", "Doi chira"],
+    "likes": 7000
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://shorturl.at/yOU26",
+    "chef_name": "Ahmed Khan",
+    "years_of_experience": 12,
+    "number_of_recipes": 80,
+    "bangladeshi_recipes": ["Fish fry", "Bhuna khichuri", "Firni"],
+    "likes": 3500
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://shorturl.at/tPTZ8",
+    "chef_name": "Md. Mehedi Hasan",
+    "years_of_experience": 8,
+    "number_of_recipes": 50,
+    "bangladeshi_recipes": ["Kacchi biriyani", "Luchi aloo dom", "Mishti doi"],
+    "likes": 2000
+  },
+  {
+    "id": 7,
+    "chef_picture": "https://shorturl.at/awyHI",
+    "chef_name": "Abdul Rahman",
+    "years_of_experience": 18,
+    "number_of_recipes": 110,
+    "bangladeshi_recipes": ["Mutton rezala", "Beguni", "Gajorer halua"],
+    "likes": 5500
+  },
+  {
+    "id": 8,
+    "chef_picture": "https://shorturl.at/kJ138",
+    "chef_name": "Anwar Hossain",
+    "years_of_experience": 13,
+    "number_of_recipes": 90,
+    "bangladeshi_recipes": ["Korma", "Kofta curry", "Halim"],
+    "likes": 4200
+  },
+  {
+    "id": 9,
+    "chef_picture": "https://shorturl.at/BDFQR",
+    "chef_name": "Rahim Uddin",
+    "years_of_experience": 22,
+    "number_of_recipes": 130,
+    "bangladeshi_recipes": ["Chapli kebab", "Beguni", "Mango chutney"],
+    "likes": 6700
+  },
+  {
+    "id": 10,
+    "chef_picture": "https://miro.medium.com/v2/resize:fit:720/0*8d0vB1EsR6RUtRny",
+    "chef_name": "Nayeem Ashraf",
+    "years_of_experience": 7,
+    "number_of_recipes": 40,
+    "bangladeshi_recipes": [
+      "Sobji paturi",
+      "Dimer paturi",
+      "Kochu pata chingri"
+    ],
+    "likes": 1800
+  }
+]
