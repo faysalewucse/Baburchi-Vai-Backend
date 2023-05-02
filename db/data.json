@@ -5,10 +5,55 @@
     "chef_name": "Mridul Roy",
     "years_of_experience": 15,
     "number_of_recipes": 100,
-    "bangladeshi_recipes": [
-      "Chingri malai curry",
-      "Dhaka-style biriyani",
-      "Shorshe ilish"
+    "chefBio": "Sadia is a renowned chef and food blogger in Bangladesh. She loves to experiment with local ingredients and create fusion dishes.",
+    "recipes": [
+      {
+        "recipeName": "Dhaka-style biryani",
+        "ingredients": ["Basmati rice", "Chicken", "Yogurt", "Onion", "Spices"],
+        "cookingMethod": "Cook the rice and chicken separately, then mix them with yogurt and spices. Layer the rice and chicken mixture in a pot with fried onions and cook on low heat for 30 minutes.",
+        "rating": 4.5,
+        "likes": 200
+      },
+      {
+        "recipeName": "Pitha",
+        "ingredients": ["Rice flour", "Coconut", "Jaggery", "Cardamom", "Oil"],
+        "cookingMethod": "Make a dough with rice flour and water, then stuff it with a mixture of coconut, jaggery, and cardamom. Cook the stuffed dough in boiling water and fry it in oil.",
+        "rating": 4,
+        "likes": 150
+      },
+      {
+        "recipeName": "Shorshe ilish",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard paste",
+          "Turmeric",
+          "Green chili",
+          "Oil"
+        ],
+        "cookingMethod": "Marinate the fish in mustard paste, turmeric, and green chili. Fry the fish in oil until it is cooked and golden brown.",
+        "rating": 4.7,
+        "likes": 250
+      },
+      {
+        "recipeName": "Fuchka",
+        "ingredients": [
+          "Sattu flour",
+          "Tamarind paste",
+          "Potato",
+          "Onion",
+          "Green chili"
+        ],
+        "cookingMethod": "Make small balls of sattu flour and fry them. Stuff the balls with mashed potatoes, chopped onions, and green chili. Serve the fuchka with tamarind paste.",
+        "rating": 4.3,
+        "likes": 180
+      },
+      {
+        "recipeName": "Chapli kabab",
+        "ingredients": ["Ground beef", "Onion", "Tomato", "Spices", "Oil"],
+        "cookingMethod": "Mix the ground beef with chopped onions, tomatoes, and spices. Form the mixture into patties and fry them in oil.",
+        "rating": 4.2,
+        "likes": 170
+      }
     ],
     "likes": 5000
   },
@@ -18,7 +63,49 @@
     "chef_name": "Md Ohiduzzaman",
     "years_of_experience": 10,
     "number_of_recipes": 75,
-    "bangladeshi_recipes": ["Pitha", "Shutki bhorta", "Bhuna khichuri"],
+    "recipes": [
+      {
+        "recipeName": "Kacchi Biryani",
+        "ingredients": [
+          "Basmati rice",
+          "Mutton",
+          "Potatoes",
+          "Yogurt",
+          "Spices"
+        ],
+        "cookingMethod": "Layering rice and meat in a pot and slow-cooking it over a low flame for several hours.",
+        "rating": 4.5,
+        "likes": 1200
+      },
+      {
+        "recipeName": "Beef Tehari",
+        "ingredients": ["Beef", "Rice", "Onion", "Garlic", "Ginger"],
+        "cookingMethod": "Boiling rice and beef together in a spiced broth until the liquid is absorbed and the meat is tender.",
+        "rating": 4.2,
+        "likes": 800
+      },
+      {
+        "recipeName": "Chicken Roast",
+        "ingredients": ["Whole chicken", "Yogurt", "Lemon", "Ginger", "Garlic"],
+        "cookingMethod": "Marinating the chicken in yogurt and spices before roasting it in the oven until golden brown.",
+        "rating": 4.8,
+        "likes": 1500
+      },
+      {
+        "recipeName": "Fish Curry",
+        "ingredients": ["Fish", "Tomatoes", "Onion", "Garlic", "Ginger"],
+        "cookingMethod": "Sauteing onions, tomatoes, and spices before adding fish and cooking until tender.",
+        "rating": 4.3,
+        "likes": 900
+      },
+      {
+        "recipeName": "Luchi",
+        "ingredients": ["Flour", "Oil", "Salt", "Water", "Sugar"],
+        "cookingMethod": "Mixing flour, salt, and sugar together before adding water and kneading the dough. The dough is then rolled out and fried in hot oil.",
+        "rating": 4.0,
+        "likes": 500
+      }
+    ],
     "likes": 4000
   },
   {
@@ -27,7 +114,61 @@
     "chef_name": "Mr. Tony Khan",
     "years_of_experience": 20,
     "number_of_recipes": 120,
-    "bangladeshi_recipes": ["Mutton kosha", "Beef tehari", "Fuchka"],
+    "recipes": [
+      {
+        "recipeName": "Biryani",
+        "ingredients": ["Basmati rice", "Chicken", "Onion", "Tomato", "Spices"],
+        "cookingMethod": "1. Marinate chicken with yogurt and spices. 2. Cook rice separately. 3. Fry onions, add chicken and tomato. 4. Layer rice and chicken. 5. Bake in oven. ",
+        "rating": 4.8,
+        "likes": 120
+      },
+      {
+        "recipeName": "Fish Curry",
+        "ingredients": ["Hilsa fish", "Onion", "Garlic", "Ginger", "Spices"],
+        "cookingMethod": "1. Fry fish pieces. 2. Fry onion, garlic and ginger paste. 3. Add spices and tomato. 4. Add fish and cook for few minutes.",
+        "rating": 4.5,
+        "likes": 95
+      },
+      {
+        "recipeName": "Shorshe Ilish",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard seeds",
+          "Green chillies",
+          "Turmeric powder",
+          "Salt"
+        ],
+        "cookingMethod": "1. Mix mustard paste, turmeric and salt with water. 2. Marinate fish with the mixture. 3. Fry fish. 4. Add green chillies and serve with steamed rice.",
+        "rating": 4.9,
+        "likes": 150
+      },
+      {
+        "recipeName": "Chicken Rezala",
+        "ingredients": [
+          "Chicken",
+          "Curd",
+          "Cashew nuts",
+          "Ginger paste",
+          "Garam masala"
+        ],
+        "cookingMethod": "1. Marinate chicken with curd and spices. 2. Fry onion, ginger paste and cashew nuts paste. 3. Add chicken and cook for few minutes. 4. Add garam masala and serve hot.",
+        "rating": 4.7,
+        "likes": 110
+      },
+      {
+        "recipeName": "Chittagong Beef",
+        "ingredients": [
+          "Beef",
+          "Onion",
+          "Ginger paste",
+          "Garlic paste",
+          "Green chillies"
+        ],
+        "cookingMethod": "1. Fry beef. 2. Fry onion, ginger and garlic paste. 3. Add beef and cook for few minutes. 4. Add green chillies and serve hot.",
+        "rating": 4.6,
+        "likes": 105
+      }
+    ],
     "likes": 6000
   },
   {
@@ -36,7 +177,67 @@
     "chef_name": "Jakir Hossain",
     "years_of_experience": 25,
     "number_of_recipes": 150,
-    "bangladeshi_recipes": ["Chotpoti", "Bhorta", "Doi chira"],
+    "recipes": [
+      {
+        "recipeName": "Shorshe Ilish",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard paste",
+          "Turmeric powder",
+          "Green chilies",
+          "Salt"
+        ],
+        "cookingMethod": "Marinate the fish with turmeric powder and salt. Fry the fish until golden brown. In a separate pan, heat mustard oil and add mustard paste, green chilies, turmeric powder, and salt. Add the fried fish and cook for a few more minutes. Serve hot with steamed rice.",
+        "rating": 4.5,
+        "likes": 145
+      },
+      {
+        "recipeName": "Chingri Malai Curry",
+        "ingredients": [
+          "Prawns",
+          "Coconut milk",
+          "Ginger paste",
+          "Garlic paste",
+          "Turmeric powder"
+        ],
+        "cookingMethod": "Heat oil in a pan and fry the prawns until light brown. In a separate pan, heat some oil and add ginger and garlic paste, turmeric powder, and salt. Add coconut milk and cook for a few minutes. Add the fried prawns and cook for a few more minutes. Serve hot with steamed rice.",
+        "rating": 4.2,
+        "likes": 121
+      },
+      {
+        "recipeName": "Dhaka Biriyani",
+        "ingredients": [
+          "Basmati rice",
+          "Chicken",
+          "Onions",
+          "Yogurt",
+          "Spices"
+        ],
+        "cookingMethod": "Marinate the chicken with yogurt and spices. Fry the onions until golden brown. In a separate pan, cook the rice until half done. In another pan, add the marinated chicken and cook until tender. Layer the rice and chicken in a pot and cook on low heat for 20-30 minutes. Serve hot with salad and raita.",
+        "rating": 4.8,
+        "likes": 189
+      },
+      {
+        "recipeName": "Bhapa Pitha",
+        "ingredients": [
+          "Rice flour",
+          "Jaggery",
+          "Coconut",
+          "Cardamom powder",
+          "Water"
+        ],
+        "cookingMethod": "Mix rice flour, jaggery, and cardamom powder in a bowl. Add water gradually and mix until a smooth batter forms. Grease a steamer and pour the batter. Add grated coconut on top. Steam for 10-12 minutes or until cooked. Serve hot.",
+        "rating": 4.6,
+        "likes": 165
+      },
+      {
+        "recipeName": "Kachchi Biriyani",
+        "ingredients": ["Basmati rice", "Beef", "Onions", "Yogurt", "Spices"],
+        "cookingMethod": "Marinate the beef with yogurt and spices. Fry the onions until golden brown. In a separate pan, cook the rice until half done. In another pan, add the marinated beef and cook until tender. Layer the rice and beef in a pot and cook on low heat for 20-30 minutes. Serve hot with salad and raita.",
+        "rating": 4.7,
+        "likes": 173
+      }
+    ],
     "likes": 7000
   },
   {
@@ -45,7 +246,43 @@
     "chef_name": "Ahmed Khan",
     "years_of_experience": 12,
     "number_of_recipes": 80,
-    "bangladeshi_recipes": ["Fish fry", "Bhuna khichuri", "Firni"],
+    "recipes": [
+      {
+        "recipeName": "Biryani",
+        "ingredients": ["Rice", "Chicken", "Potato", "Onion", "Spices"],
+        "cookingMethod": "Cook rice with spices, fry chicken and potato separately, and then layer the rice, chicken, and potato in a pot. Cook for 30 minutes on low heat.",
+        "rating": 4.5,
+        "likes": 256
+      },
+      {
+        "recipeName": "Kacchi Biriyani",
+        "ingredients": ["Rice", "Mutton", "Potato", "Onion", "Spices"],
+        "cookingMethod": "Marinate the mutton with spices and yogurt, fry the potato and onion, layer the rice, mutton, potato, and onion in a pot, and cook on low heat for 45 minutes.",
+        "rating": 4.8,
+        "likes": 356
+      },
+      {
+        "recipeName": "Fish Curry",
+        "ingredients": ["Fish", "Onion", "Garlic", "Ginger", "Tomato"],
+        "cookingMethod": "Fry the onion, garlic, and ginger, add the tomato and spices, and then add the fish. Cook for 20 minutes on low heat.",
+        "rating": 4.2,
+        "likes": 124
+      },
+      {
+        "recipeName": "Pitha",
+        "ingredients": ["Rice Flour", "Coconut", "Sugar", "Milk", "Water"],
+        "cookingMethod": "Mix the rice flour, coconut, sugar, and milk, and then shape the mixture into small balls. Boil water in a pot, add the balls, and cook for 10-15 minutes.",
+        "rating": 4.0,
+        "likes": 98
+      },
+      {
+        "recipeName": "Chotpoti",
+        "ingredients": ["Chickpeas", "Potato", "Onion", "Tomato", "Spices"],
+        "cookingMethod": "Boil the chickpeas and potato, fry the onion and tomato, and mix everything together with spices. Serve with puffed rice and tamarind sauce.",
+        "rating": 4.3,
+        "likes": 175
+      }
+    ],
     "likes": 3500
   },
   {
@@ -54,47 +291,283 @@
     "chef_name": "Md. Mehedi Hasan",
     "years_of_experience": 8,
     "number_of_recipes": 50,
-    "bangladeshi_recipes": ["Kacchi biriyani", "Luchi aloo dom", "Mishti doi"],
+    "recipes": [
+      {
+        "recipeName": "Beef Bhuna",
+        "ingredients": ["Beef", "Onion", "Garlic", "Ginger", "Tomato"],
+        "cookingMethod": "1. Heat oil in a pan and fry the onions until they turn golden brown. 2. Add the beef and fry until it is browned on all sides. 3. Add garlic and ginger and fry for 2 minutes. 4. Add tomatoes and cook until they are soft. 5. Add salt and other spices to taste. 6. Cover and cook on low heat until the beef is tender. ",
+        "rating": 4.5,
+        "likes": 120
+      },
+      {
+        "recipeName": "Chingri Malai Curry",
+        "ingredients": ["Shrimp", "Coconut Milk", "Onion", "Garlic", "Ginger"],
+        "cookingMethod": "1. Heat oil in a pan and fry the onions until they turn golden brown. 2. Add garlic and ginger and fry for 2 minutes. 3. Add shrimp and fry until they are pink. 4. Add coconut milk and bring to a boil. 5. Add salt and other spices to taste. 6. Cover and cook on low heat until the shrimp is cooked. ",
+        "rating": 4.8,
+        "likes": 150
+      },
+      {
+        "recipeName": "Fuchka",
+        "ingredients": ["Flour", "Potatoes", "Tamarind", "Chickpeas", "Onion"],
+        "cookingMethod": "1. Boil the potatoes and mash them. 2. Mix flour and water to make a dough. 3. Roll the dough into small balls and flatten them. 4. Deep fry until they turn golden brown. 5. Fill the fuchka with mashed potatoes and chickpeas. 6. Top with tamarind sauce and onions. ",
+        "rating": 4.2,
+        "likes": 100
+      },
+      {
+        "recipeName": "Kacchi Biriyani",
+        "ingredients": ["Rice", "Mutton", "Onion", "Garlic", "Ginger"],
+        "cookingMethod": "1. Marinate the mutton with yogurt, ginger, garlic, and other spices. 2. Fry the onions until they turn golden brown. 3. Add the mutton and fry until it is browned on all sides. 4. Parboil the rice and add it to the mutton. 5. Add saffron, ghee, and other spices to taste. 6. Cook on low heat until the rice and mutton are cooked. ",
+        "rating": 4.9,
+        "likes": 200
+      },
+      {
+        "recipeName": "Luchi and Cholar Dal",
+        "ingredients": ["Flour", "Chana Dal", "Onion", "Garlic", "Ginger"],
+        "cookingMethod": "1. Marinate the mutton with yogurt, ginger, garlic, and other spices. 2. Fry the onions until they turn golden brown. 3. Add the mutton and fry until it is browned on all sides. 4. Parboil the rice and add it to the mutton. 5. Add saffron, ghee, and other spices to taste. 6. Cook on low heat until the rice and mutton are cooked. ",
+        "rating": 4.9
+      }
+    ],
     "likes": 2000
   },
   {
     "id": 7,
     "chef_picture": "https://shorturl.at/awyHI",
-    "chef_name": "Abdul Rahman",
-    "years_of_experience": 18,
-    "number_of_recipes": 110,
-    "bangladeshi_recipes": ["Mutton rezala", "Beguni", "Gajorer halua"],
-    "likes": 5500
+    "chef_name": "Mridul Roy",
+    "years_of_experience": 15,
+    "number_of_recipes": 100,
+    "chefBio": "Sadia is a renowned chef and food blogger in Bangladesh. She loves to experiment with local ingredients and create fusion dishes.",
+    "recipes": [
+      {
+        "recipeName": "Dhaka-style biryani",
+        "ingredients": ["Basmati rice", "Chicken", "Yogurt", "Onion", "Spices"],
+        "cookingMethod": "Cook the rice and chicken separately, then mix them with yogurt and spices. Layer the rice and chicken mixture in a pot with fried onions and cook on low heat for 30 minutes.",
+        "rating": 4.5,
+        "likes": 200
+      },
+      {
+        "recipeName": "Pitha",
+        "ingredients": ["Rice flour", "Coconut", "Jaggery", "Cardamom", "Oil"],
+        "cookingMethod": "Make a dough with rice flour and water, then stuff it with a mixture of coconut, jaggery, and cardamom. Cook the stuffed dough in boiling water and fry it in oil.",
+        "rating": 4,
+        "likes": 150
+      },
+      {
+        "recipeName": "Shorshe ilish",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard paste",
+          "Turmeric",
+          "Green chili",
+          "Oil"
+        ],
+        "cookingMethod": "Marinate the fish in mustard paste, turmeric, and green chili. Fry the fish in oil until it is cooked and golden brown.",
+        "rating": 4.7,
+        "likes": 250
+      },
+      {
+        "recipeName": "Fuchka",
+        "ingredients": [
+          "Sattu flour",
+          "Tamarind paste",
+          "Potato",
+          "Onion",
+          "Green chili"
+        ],
+        "cookingMethod": "Make small balls of sattu flour and fry them. Stuff the balls with mashed potatoes, chopped onions, and green chili. Serve the fuchka with tamarind paste.",
+        "rating": 4.3,
+        "likes": 180
+      },
+      {
+        "recipeName": "Chapli kabab",
+        "ingredients": ["Ground beef", "Onion", "Tomato", "Spices", "Oil"],
+        "cookingMethod": "Mix the ground beef with chopped onions, tomatoes, and spices. Form the mixture into patties and fry them in oil.",
+        "rating": 4.2,
+        "likes": 170
+      }
+    ],
+    "likes": 5000
   },
   {
     "id": 8,
     "chef_picture": "https://shorturl.at/kJ138",
-    "chef_name": "Anwar Hossain",
-    "years_of_experience": 13,
-    "number_of_recipes": 90,
-    "bangladeshi_recipes": ["Korma", "Kofta curry", "Halim"],
-    "likes": 4200
+    "chef_name": "Md Ohiduzzaman",
+    "years_of_experience": 10,
+    "number_of_recipes": 75,
+    "recipes": [
+      {
+        "recipeName": "Kacchi Biryani",
+        "ingredients": [
+          "Basmati rice",
+          "Mutton",
+          "Potatoes",
+          "Yogurt",
+          "Spices"
+        ],
+        "cookingMethod": "Layering rice and meat in a pot and slow-cooking it over a low flame for several hours.",
+        "rating": 4.5,
+        "likes": 1200
+      },
+      {
+        "recipeName": "Beef Tehari",
+        "ingredients": ["Beef", "Rice", "Onion", "Garlic", "Ginger"],
+        "cookingMethod": "Boiling rice and beef together in a spiced broth until the liquid is absorbed and the meat is tender.",
+        "rating": 4.2,
+        "likes": 800
+      },
+      {
+        "recipeName": "Chicken Roast",
+        "ingredients": ["Whole chicken", "Yogurt", "Lemon", "Ginger", "Garlic"],
+        "cookingMethod": "Marinating the chicken in yogurt and spices before roasting it in the oven until golden brown.",
+        "rating": 4.8,
+        "likes": 1500
+      },
+      {
+        "recipeName": "Fish Curry",
+        "ingredients": ["Fish", "Tomatoes", "Onion", "Garlic", "Ginger"],
+        "cookingMethod": "Sauteing onions, tomatoes, and spices before adding fish and cooking until tender.",
+        "rating": 4.3,
+        "likes": 900
+      },
+      {
+        "recipeName": "Luchi",
+        "ingredients": ["Flour", "Oil", "Salt", "Water", "Sugar"],
+        "cookingMethod": "Mixing flour, salt, and sugar together before adding water and kneading the dough. The dough is then rolled out and fried in hot oil.",
+        "rating": 4.0,
+        "likes": 500
+      }
+    ],
+    "likes": 4000
   },
   {
     "id": 9,
     "chef_picture": "https://shorturl.at/BDFQR",
-    "chef_name": "Rahim Uddin",
-    "years_of_experience": 22,
-    "number_of_recipes": 130,
-    "bangladeshi_recipes": ["Chapli kebab", "Beguni", "Mango chutney"],
-    "likes": 6700
+    "chef_name": "Mr. Tony Khan",
+    "years_of_experience": 20,
+    "number_of_recipes": 120,
+    "recipes": [
+      {
+        "recipeName": "Biryani",
+        "ingredients": ["Basmati rice", "Chicken", "Onion", "Tomato", "Spices"],
+        "cookingMethod": "1. Marinate chicken with yogurt and spices. 2. Cook rice separately. 3. Fry onions, add chicken and tomato. 4. Layer rice and chicken. 5. Bake in oven. ",
+        "rating": 4.8,
+        "likes": 120
+      },
+      {
+        "recipeName": "Fish Curry",
+        "ingredients": ["Hilsa fish", "Onion", "Garlic", "Ginger", "Spices"],
+        "cookingMethod": "1. Fry fish pieces. 2. Fry onion, garlic and ginger paste. 3. Add spices and tomato. 4. Add fish and cook for few minutes.",
+        "rating": 4.5,
+        "likes": 95
+      },
+      {
+        "recipeName": "Shorshe Ilish",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard seeds",
+          "Green chillies",
+          "Turmeric powder",
+          "Salt"
+        ],
+        "cookingMethod": "1. Mix mustard paste, turmeric and salt with water. 2. Marinate fish with the mixture. 3. Fry fish. 4. Add green chillies and serve with steamed rice.",
+        "rating": 4.9,
+        "likes": 150
+      },
+      {
+        "recipeName": "Chicken Rezala",
+        "ingredients": [
+          "Chicken",
+          "Curd",
+          "Cashew nuts",
+          "Ginger paste",
+          "Garam masala"
+        ],
+        "cookingMethod": "1. Marinate chicken with curd and spices. 2. Fry onion, ginger paste and cashew nuts paste. 3. Add chicken and cook for few minutes. 4. Add garam masala and serve hot.",
+        "rating": 4.7,
+        "likes": 110
+      },
+      {
+        "recipeName": "Chittagong Beef",
+        "ingredients": [
+          "Beef",
+          "Onion",
+          "Ginger paste",
+          "Garlic paste",
+          "Green chillies"
+        ],
+        "cookingMethod": "1. Fry beef. 2. Fry onion, ginger and garlic paste. 3. Add beef and cook for few minutes. 4. Add green chillies and serve hot.",
+        "rating": 4.6,
+        "likes": 105
+      }
+    ],
+    "likes": 6000
   },
   {
     "id": 10,
     "chef_picture": "https://miro.medium.com/v2/resize:fit:720/0*8d0vB1EsR6RUtRny",
-    "chef_name": "Nayeem Ashraf",
-    "years_of_experience": 7,
-    "number_of_recipes": 40,
-    "bangladeshi_recipes": [
-      "Sobji paturi",
-      "Dimer paturi",
-      "Kochu pata chingri"
+    "chef_name": "Jakir Hossain",
+    "years_of_experience": 25,
+    "number_of_recipes": 150,
+    "recipes": [
+      {
+        "recipeName": "Shorshe Ilish",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard paste",
+          "Turmeric powder",
+          "Green chilies",
+          "Salt"
+        ],
+        "cookingMethod": "Marinate the fish with turmeric powder and salt. Fry the fish until golden brown. In a separate pan, heat mustard oil and add mustard paste, green chilies, turmeric powder, and salt. Add the fried fish and cook for a few more minutes. Serve hot with steamed rice.",
+        "rating": 4.5,
+        "likes": 145
+      },
+      {
+        "recipeName": "Chingri Malai Curry",
+        "ingredients": [
+          "Prawns",
+          "Coconut milk",
+          "Ginger paste",
+          "Garlic paste",
+          "Turmeric powder"
+        ],
+        "cookingMethod": "Heat oil in a pan and fry the prawns until light brown. In a separate pan, heat some oil and add ginger and garlic paste, turmeric powder, and salt. Add coconut milk and cook for a few minutes. Add the fried prawns and cook for a few more minutes. Serve hot with steamed rice.",
+        "rating": 4.2,
+        "likes": 121
+      },
+      {
+        "recipeName": "Dhaka Biriyani",
+        "ingredients": [
+          "Basmati rice",
+          "Chicken",
+          "Onions",
+          "Yogurt",
+          "Spices"
+        ],
+        "cookingMethod": "Marinate the chicken with yogurt and spices. Fry the onions until golden brown. In a separate pan, cook the rice until half done. In another pan, add the marinated chicken and cook until tender. Layer the rice and chicken in a pot and cook on low heat for 20-30 minutes. Serve hot with salad and raita.",
+        "rating": 4.8,
+        "likes": 189
+      },
+      {
+        "recipeName": "Bhapa Pitha",
+        "ingredients": [
+          "Rice flour",
+          "Jaggery",
+          "Coconut",
+          "Cardamom powder",
+          "Water"
+        ],
+        "cookingMethod": "Mix rice flour, jaggery, and cardamom powder in a bowl. Add water gradually and mix until a smooth batter forms. Grease a steamer and pour the batter. Add grated coconut on top. Steam for 10-12 minutes or until cooked. Serve hot.",
+        "rating": 4.6,
+        "likes": 165
+      },
+      {
+        "recipeName": "Kachchi Biriyani",
+        "ingredients": ["Basmati rice", "Beef", "Onions", "Yogurt", "Spices"],
+        "cookingMethod": "Marinate the beef with yogurt and spices. Fry the onions until golden brown. In a separate pan, cook the rice until half done. In another pan, add the marinated beef and cook until tender. Layer the rice and beef in a pot and cook on low heat for 20-30 minutes. Serve hot with salad and raita.",
+        "rating": 4.7,
+        "likes": 173
+      }
     ],
-    "likes": 1800
+    "likes": 7000
   }
 ]
