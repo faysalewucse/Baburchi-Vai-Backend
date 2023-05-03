@@ -5,7 +5,7 @@
     "chef_name": "Mridul Roy",
     "years_of_experience": 15,
     "number_of_recipes": 100,
-    "chefBio": "Sadia is a renowned chef and food blogger in Bangladesh. She loves to experiment with local ingredients and create fusion dishes.",
+    "chefBio": "Mridul Roy is a Bd celebrity chef, restaurateur, television personality and writer. His restaurant group, Gordon Ramsay Restaurants, was founded in 1997 and has been awarded 17 Michelin stars overall; it currently holds a total of seven",
     "recipes": [
       {
         "recipeName": "Dhaka-style biryani",
@@ -63,6 +63,7 @@
     "chef_name": "Md Ohiduzzaman",
     "years_of_experience": 10,
     "number_of_recipes": 75,
+    "chefBio": "Md Ohiduzzaman is a Bd restaurateur, author, podcaster, and television personality. He is the founder of the Momofuku restaurant group. In 2009, Momofuku Ko was awarded two Michelin stars, which the restaurant has retained each year since",
     "recipes": [
       {
         "recipeName": "Kacchi Biryani",
@@ -113,6 +114,7 @@
     "chef_picture": "https://chefclubdhakahome.files.wordpress.com/2019/05/tony7755109801519956930.jpg",
     "chef_name": "Mr. Tony Khan",
     "years_of_experience": 20,
+    "chefBio": "Mr. Tony Khan is a Bangladeshi chef and hotelier.He has received awards and nominations as a chef. He has appeared as a celebrity cook on television shows.He is previously general manager and director of food and beverages, executive chef for Grand Sultan Tea Resort and Golf since 2013.",
     "number_of_recipes": 120,
     "recipes": [
       {
@@ -177,6 +179,7 @@
     "chef_name": "Jakir Hossain",
     "years_of_experience": 25,
     "number_of_recipes": 150,
+    "chefBio": "Jakir Hossain MBE FRSA (born 28 March 1959), better known by his nick name Tommy Miah, is a Bangladeshi-born British chef, owner of the Raj Restaurant and founder of the International Indian Chef of the Year Competition. He is often recognised as the Curry King in Britain.",
     "recipes": [
       {
         "recipeName": "Shorshe Ilish",
@@ -246,6 +249,7 @@
     "chef_name": "Ahmed Khan",
     "years_of_experience": 12,
     "number_of_recipes": 80,
+    "chefBio": "Since 1966, Ahmed Khan had challenged outrageous financial hardships since his move to Bangladesh. He amid a stretch to squeeze out a work, he was acquainted with Muslim Miah, a culinary specialist to the Nawabs of India.chef Ahmed Khan famous chefs in bangladesh. From Muslim Miah, Ahmed Khan figured out how to cook. It was short colleague which uncovered to Ahmed Khan his shrouded, characteristic style and outrageous enthusiasm for cooking. While working in the Viqarun Nisa, he earned a name for his pleasantness, mild-mannered and tender nature. Now he is among the top 10 chefs in Bangladesh.",
     "recipes": [
       {
         "recipeName": "Biryani",
@@ -291,6 +295,7 @@
     "chef_name": "Md. Mehedi Hasan",
     "years_of_experience": 8,
     "number_of_recipes": 50,
+    "chefBio": "Md. Mehedi Hasan MBE FRSA (born 28 March 1959), better known by his nick name Tommy Miah, is a Bangladeshi-born British chef, owner of the Raj Restaurant and founder of the International Indian Chef of the Year Competition. He is often recognised as the Curry King in Britain.",
     "recipes": [
       {
         "recipeName": "Beef Bhuna",
@@ -332,10 +337,10 @@
   {
     "id": 7,
     "chef_picture": "https://shorturl.at/awyHI",
-    "chef_name": "Mridul Roy",
+    "chef_name": "Abdul Latif",
     "years_of_experience": 15,
     "number_of_recipes": 100,
-    "chefBio": "Sadia is a renowned chef and food blogger in Bangladesh. She loves to experiment with local ingredients and create fusion dishes.",
+    "chefBio": "Abdul Latif is a renowned chef and food blogger in Bangladesh. She loves to experiment with local ingredients and create fusion dishes.",
     "recipes": [
       {
         "recipeName": "Dhaka-style biryani",
@@ -390,9 +395,10 @@
   {
     "id": 8,
     "chef_picture": "https://shorturl.at/kJ138",
-    "chef_name": "Md Ohiduzzaman",
+    "chef_name": "Md Abdur Rahman",
     "years_of_experience": 10,
     "number_of_recipes": 75,
+    "chefBio": "Since 1986, Abdur Rahman had challenged outrageous financial hardships since his move to Bangladesh. He amid a stretch to squeeze out a work, he was acquainted with Muslim Miah, a culinary specialist to the Nawabs of India.chef Abdur Rahman famous chefs in bangladesh. From Muslim Miah, Abdur Rahman figured out how to cook.",
     "recipes": [
       {
         "recipeName": "Kacchi Biryani",
@@ -441,9 +447,10 @@
   {
     "id": 9,
     "chef_picture": "https://shorturl.at/BDFQR",
-    "chef_name": "Mr. Tony Khan",
+    "chef_name": "Mr. Tamim",
     "years_of_experience": 20,
     "number_of_recipes": 120,
+    "chefBio": "Tamim MBE FRSA (born 27 March 1979), better known by his nick name Tommy Miah, is a Bangladeshi-born British chef, owner of the Raj Restaurant and founder of the International Indian Chef of the Year Competition. He is often recognised as the Curry King in Britain.",
     "recipes": [
       {
         "recipeName": "Biryani",
@@ -504,9 +511,10 @@
   {
     "id": 10,
     "chef_picture": "https://miro.medium.com/v2/resize:fit:720/0*8d0vB1EsR6RUtRny",
-    "chef_name": "Jakir Hossain",
+    "chef_name": "Nayeem Hossain",
     "years_of_experience": 25,
     "number_of_recipes": 150,
+    "chefBio": "Chef Nayeem and his mom would bond in the kitchen day in and day out. Whether they were filled with cheer, or stressed from a tough day, they knew they’d be able to ground themselves in the kitchen. Cooking provided a sense of peace and the kitchen quickly became a space to create memories they’d cherish forever.",
     "recipes": [
       {
         "recipeName": "Shorshe Ilish",
