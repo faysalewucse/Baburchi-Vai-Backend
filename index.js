@@ -21,6 +21,13 @@ app.get("/chef/:chefId", (req, res) => {
   res.send(chef);
 });
 
+app.get("/chef/:chefId/:recipeIndex", (req, res) => {
+  const { chefId, recipeIndex } = req.params;
+  // find chef by id
+  const chef = chefData.find((chef) => chef.id === parseInt(chefId));
+  res.send(chef.recipes[recipeIndex]);
+});
+
 app.listen(port, () => {
   console.log(`server running on port ${port}`);
 });
